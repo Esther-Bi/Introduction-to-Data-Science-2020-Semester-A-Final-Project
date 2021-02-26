@@ -22,3 +22,19 @@ After understanding the information, there is a use of different models which di
 There is a comparison between the different models and a comparison between taking parts of the data and using them only, in order to perhaps optimize the model.
 From the results of the various models it is possible to understand who is the most accurate model for predicting the prices of second hand cars.
 
+Models:
+
+Linear Regression-
+Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. For example, a modeler might want to relate the weights of individuals to their heights using a linear regression model.
+
+Random Forest-
+Random forest, like its name implies, consists of a large number of individual decision trees that operate as an ensemble. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction
+
+Decision Tree-
+A decision tree is arriving at an estimate by asking a series of questions to the data, each question narrowing our possible values until the model gets confident enough to make a single prediction. The order of the question as well as their content are being determined by the model. In addition, the questions asked are all in a True / False form.
+
+Logistic Regression-
+Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable.
+
+KNN-
+KNN classifier determines the class of a data point by majority voting principle. If k is set to 5, the classes of 5 closest points are checked. Prediction is done according to the majority class.
